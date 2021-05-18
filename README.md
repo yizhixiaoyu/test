@@ -1,2 +1,2 @@
 # test
-This is a rest repository
+This is a rest repository for test
